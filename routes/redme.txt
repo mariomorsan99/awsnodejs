@@ -1,0 +1,11 @@
+creacion de servicio que consume aws en nodejs
+
+---npm init inicializa el proyecto de nodejs
+
+---crear carpeta de rutas 
+
+---agregar dependencias 
+
+---agrgar archivo app.js
+
+url de documentacion para consumo de servicios con node js en aws https://aws.amazon.com/es/sdk-for-node-js/
